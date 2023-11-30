@@ -1,7 +1,8 @@
 ### Hi,I am yutian 👋
 个人博客：[yutian's blog](https://yutianqaq.github.io/)
 微信公众：赛博雨天
-主要更新红队方向文章
+![wechat](yutian4060.jpg)
+主要更新红队方向与 Hackthebox 文章
 <!--
 **yutianqaq/yutianqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
