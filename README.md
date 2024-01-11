@@ -5,7 +5,7 @@
 
 ![wechat](yutian4060.jpg)
 
-主要更新红队方向与 Hackthebox 文章
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=radical)
 <!--
 **yutianqaq/yutianqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
