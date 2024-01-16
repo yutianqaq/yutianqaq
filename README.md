@@ -2,7 +2,7 @@
 个人博客：[yutian's blog](https://yutianqaq.github.io/)
 
 微信公众号：赛博雨天
-📫 ytian233#163.com
+📫 ytian233@163.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&show_icons=true&theme=radical)
 <img src="yutian4060.jpg" alt="wechat" width="260" height="260">
