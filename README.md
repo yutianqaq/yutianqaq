@@ -2,10 +2,13 @@
 个人博客：[yutian's blog](https://yutianqaq.github.io/)
 
 微信公众号：赛博雨天
-
-![wechat](yutian4060.jpg)
+📫 ytian233#163.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&show_icons=true&theme=radical)
+<img src="yutian4060.jpg" alt="wechat" width="260" height="260">
+
+
+
 <!--
 **yutianqaq/yutianqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
