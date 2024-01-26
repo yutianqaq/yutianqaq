@@ -8,6 +8,8 @@
 <img src="yutian4060.jpg" alt="wechat" width="260" height="260">
 
 
+[简单快捷的 CS 一键免杀插件](https://github.com/yutianqaq/x2Ldr)
+[支持多种方式的Web端一键免杀](https://github.com/yutianqaq/AVEvasionCraftOnline)
 
 <!--
 **yutianqaq/yutianqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
