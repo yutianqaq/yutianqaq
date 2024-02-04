@@ -8,7 +8,7 @@
 <img src="yutian4060.jpg" alt="wechat" width="260" height="260">
 
 
-[简单快捷的 CS 一键免杀插件](https://github.com/yutianqaq/CSx3Ldr) - [可定制的、在线免杀平台支持Golang、Nim、C/C++](https://github.com/yutianqaq/AVEvasionCraftOnline)
+[Nim 简单快捷的 CS 一键免杀插件](https://github.com/yutianqaq/CSx3Ldr) - [Spring Boot 可定制的、在线免杀平台](https://github.com/yutianqaq/AVEvasionCraftOnline)
 
 [Nim 免杀 - x2Ldr](https://github.com/yutianqaq/x2Ldr) - [C 本地分离免杀 - x1Ldr](https://github.com/yutianqaq/x1Ldr)
 
