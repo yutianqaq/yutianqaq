@@ -4,7 +4,7 @@
 微信公众号：赛博雨天
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&hide=contribs,prs,issues&show_icons=true&theme=radical)
 <img src="yutian4060.jpg" alt="wechat" width="200" height="200">
 
 
