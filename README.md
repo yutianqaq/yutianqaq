@@ -5,7 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&show_icons=true&theme=radical)
-<img src="yutian4060.jpg" alt="wechat" width="260" height="260">
+<img src="yutian4060.jpg" alt="wechat" width="200" height="200">
 
 
 | 工具名称                                      | 项目链接                                        |
