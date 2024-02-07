@@ -18,7 +18,8 @@
 | Go\|多种Shellcode加密方式并自动生成解密方式      | [Supernova_CN](https://github.com/yutianqaq/Supernova_CN) | Nim\|免杀 - x2Ldr                              | [x2Ldr](https://github.com/yutianqaq/x2Ldr)         |
 | Go\|二进制文件熵计算                               | [EntropyCalc_Go](https://github.com/yutianqaq/EntropyCalc_Go) | C\|本地分离免杀 - x1Ldr                         | [x1Ldr](https://github.com/yutianqaq/x1Ldr)         |   
 
-  
+#### Hackthebox
+<p><a href="https://app.hackthebox.com/profile/244079" target="_blank" rel="noopener"><img src="http://www.hackthebox.eu/badge/image/244079"></a></p>
 <p align="center"> <img align='center' src="https://profile-counter.glitch.me/yutianqaq/count.svg" > </p>
 
 <!--
