@@ -5,7 +5,7 @@
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&hide=contribs,prs,issues&show_icons=true&theme=radical)-->
-<p align="center"><img align='center' src="https://github-profile-trophy.vercel.app/?username=yutianqaq&theme=nord&row=1&column=3"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutianqaq&&hide=html,javascript&langs_count=3&line_height=35&theme=dark" /> </p> 
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=yutianqaq&show_icons=true&line_height=35&count_private=true&theme=dark"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutianqaq&&hide=html,javascript&langs_count=3&line_height=35&theme=dark" /> </p> 
 
 #### 认证
 
