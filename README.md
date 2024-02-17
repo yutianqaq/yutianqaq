@@ -5,7 +5,7 @@
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutianqaq&hide=contribs,prs,issues&show_icons=true&theme=radical)-->
-<p align="center"><img align='center' src="https://github-profile-trophy.vercel.app/?username=yutianqaq&theme=nord&row=1&column=6"> </p> 
+<p align="center"><img align='center' src="https://github-profile-trophy.vercel.app/?username=yutianqaq&theme=nord&row=1&column=3"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutianqaq&&hide=html,javascript&langs_count=3&line_height=35&theme=dark" /> </p> 
 
 #### 认证
 
@@ -21,6 +21,8 @@
 #### Hackthebox
 <p><a href="https://app.hackthebox.com/profile/244079" target="_blank" rel="noopener"><img src="http://www.hackthebox.eu/badge/image/244079"></a></p>
 <p align="center"> <img align='center' src="https://profile-counter.glitch.me/yutianqaq/count.svg" > </p>
+
+ 
 
 <!--
 [Nim 简单快捷的 CS 一键免杀插件](https://github.com/yutianqaq/CSx3Ldr) - [Spring Boot 可定制的、在线免杀平台](https://github.com/yutianqaq/AVEvasionCraftOnline)
