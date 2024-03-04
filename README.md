@@ -1,6 +1,5 @@
 ### Hi,I am yutian 👋
- <p align="center"> 个人博客：https://yutianqaq.github.io/   微信公众号：赛博雨天 <a style="display: inline;" href="https://xz.aliyun.com/u/29840">先知社区</p>  
-
+ <p align="center"> 个人博客：https://yutianqaq.github.io/   微信公众号：赛博雨天 <a style="display: inline;" href="https://xz.aliyun.com/u/29840">先知社区</a> <a style="display: inline;" href="https://y2qaq.notion.site/Blog-e4a18ba11a7f48d495b3f5e9c74cd84e">日常记录</p>  
 
 
 
