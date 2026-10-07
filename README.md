@@ -9,6 +9,8 @@
 #### 认证
 
 <a style="display: inline;" href="https://api.eu.badgr.io/public/assertions/bVOCm2Z1QlKO3GhyDahfng"><img style="display: inline;" src="Images/crto-logo.png" alt="CRTO" width="100" height="100" /></a>
+<a style="display: inline;" href="https://credentials.offsec.com/084206a1-5d87-408b-855e-15def4b38a1c"><img style="display: inline;" src="Images/osep-logo.png" alt="OSEP" width="100" height="100" /></a>
+
 
 #### 开源项目
 | 工具名称                                      | 项目链接                                        | 工具名称                                      | 项目链接                                        | 
